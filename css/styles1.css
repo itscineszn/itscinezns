@@ -257,6 +257,11 @@ nav li:first-child {
     scale: 1.1;
 }
 
+.box4 a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 #homeSection {
     display: flex;
     font-size: 6vmin;
@@ -283,6 +288,11 @@ nav li:first-child {
 .box5 .boxSmaller
 {
     font-size: 3vmin;
+}
+
+.box5 a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 #readMore {
