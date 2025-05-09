@@ -96,6 +96,9 @@ nav li:first-child {
 }
 
 @media (max-width: 768px) {
+    * {
+        font-size: 4vmin;
+    }
     .hideOnMobile {
         display: none;
     }
