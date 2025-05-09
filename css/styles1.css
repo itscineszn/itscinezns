@@ -251,10 +251,12 @@ nav li:first-child {
     margin: 3%;
     font-size: 1em;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .box4 a:hover {
     scale: 1.1;
+    text-decoration: none;
 }
 
 
