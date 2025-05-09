@@ -242,7 +242,7 @@ nav li:first-child {
     font-weight:200;
 }
 
-.box4 button {
+.box4 a {
     background-color: transparent;
     border: 1px solid white;
     border-radius: 100px;
@@ -253,14 +253,11 @@ nav li:first-child {
     cursor: pointer;
 }
 
-.box4 button:hover {
+.box4 a:hover {
     scale: 1.1;
 }
 
-.box4 a {
-  color: black;
-  text-decoration: none; 
-}
+
 
 #homeSection {
     display: flex;
@@ -288,12 +285,6 @@ nav li:first-child {
 .box5 .boxSmaller
 {
     font-size: 3vmin;
-}
-
-
-.box5 a {
-  color: black;
-  text-decoration: none; 
 }
 
 #readMore {
