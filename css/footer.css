@@ -17,6 +17,7 @@ footer li{
     display: flex;
     flex-direction: row;
     align-items: center;
+    height: 5vh;
 }
 
 footer ul img{
