@@ -257,7 +257,7 @@ nav li:first-child {
     scale: 1.1;
 }
 
-.box4 a {
+.box4 a:visited {
     text-decoration: none;
     color: #ffffff;
 }
@@ -290,7 +290,7 @@ nav li:first-child {
     font-size: 3vmin;
 }
 
-.box5 a {
+.box5 a:visited {
     text-decoration: none;
     color: #ffffff;
 }
