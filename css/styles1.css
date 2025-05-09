@@ -257,9 +257,9 @@ nav li:first-child {
     scale: 1.1;
 }
 
-.box4 a:link:active, a:visited:active {
-  color: #ffffff;
-  text-decoration: none;  
+.box4 a {
+  color: black;
+  text-decoration: none; 
 }
 
 #homeSection {
@@ -291,9 +291,9 @@ nav li:first-child {
 }
 
 
-.box5 a:link:active, a:visited:active {
-  color: #ffffff;
-  text-decoration: none;  
+.box5 a {
+  color: black;
+  text-decoration: none; 
 }
 
 #readMore {
