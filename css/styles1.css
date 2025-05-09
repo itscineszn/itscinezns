@@ -254,6 +254,11 @@ nav li:first-child {
     text-decoration: none;
 }
 
+.box4 a:link {
+ color: #ffffff;
+ text-decoration: none;
+}
+
 .box4 a:hover {
     scale: 1.1;
     text-decoration: none;
