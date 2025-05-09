@@ -314,7 +314,7 @@ nav li:first-child {
     gap: 2%;
     width: 100%;
     height: auto;
-    margin-top: 6%;
+    margin-top: 10%;
     justify-content: center;
 }
 
@@ -715,7 +715,7 @@ footer a:hover{
         flex-direction: column;
         width: 100%;
         height: auto;
-        margin-top: 7%;
+        margin-top: 5%;
         margin-bottom: 10%;
         align-items: center;
     }
