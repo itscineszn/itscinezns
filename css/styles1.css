@@ -690,6 +690,7 @@ footer a:hover{
         height: 40vh;
         width: 100%;
         overflow: hidden;
+        font-size: 5vmin;
     }
 
 
