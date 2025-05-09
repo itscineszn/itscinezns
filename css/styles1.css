@@ -714,8 +714,8 @@ footer a:hover{
         display: flex;
         flex-direction: column;
         width: 100%;
-        height: auto;
-        margin-top: 5%;
+        height: 150vh;
+        margin-top: 10%;
         margin-bottom: 10%;
         align-items: center;
     }
