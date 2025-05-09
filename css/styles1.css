@@ -714,7 +714,7 @@ footer a:hover{
         flex-direction: column;
         width: 100%;
         height: auto;
-        margin-top: 6%;
+        margin-top: 15%;
         align-items: center;
     }
     
@@ -724,6 +724,7 @@ footer a:hover{
         flex-direction: column;
         width: 90vw;
         height: auto;
+        font-size: 5vmin;
     }
     
     #contactUsSection ul{
@@ -735,6 +736,7 @@ footer a:hover{
         display: flex;
         flex-direction: row;
         align-items: center;
+        font-size: 5vmin;
     }
     
     #contactUsSection ul img{
@@ -745,25 +747,25 @@ footer a:hover{
     #contactUsSection ul a{
         text-decoration: none;
         color: black;
-        font-size: 2.5vmin;
         font-weight: 400;
+        font-size: 5vmin;
     }
     
     #contactUsSection ul a:hover{
         text-decoration: none;
         color: #B58A8A;
-        font-size: 2.5vmin;
         font-weight: 400;
+        font-size: 5vmin;
     }
     
     .BiggerText {
-        font-size: 6vmin;
+        font-size: 7vmin;
         font-weight: bold;
         color: #4A2E2A;
     }
     
     .SmallerText {
-        font-size: 2.5vmin;
+        font-size: 5vmin;
         font-weight: 400;
     }
     
@@ -772,7 +774,6 @@ footer a:hover{
         flex-direction: column;
         width: 90vw;
         height: auto;
-        font-size: 3vmin;
     }
     
     .contactFormContainer {
@@ -791,12 +792,12 @@ footer a:hover{
     #contactFormSection button{
        border-radius: 100px;
        min-height: 5vh;
-       min-width: 20vw;
+       min-width: 30vw;
        background-color: #DCB6B6;
        border: none;
        cursor: pointer;
        color: white;
-       font-size: 2.5vmin;
+       font-size: 5vmin;
     }
     
   
